@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# 运行时生成的文件
+data/backups/
+audit_log.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
